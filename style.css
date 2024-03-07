@@ -1,0 +1,142 @@
+body{
+    background-color: rgb(247,249,252);
+   
+
+}
+
+.index span a{
+    text-decoration-color: rgb(111,117,135);
+    font-size: 20px;
+    color: rgb(111,117,135);
+    margin-left: 40px;
+    text-decoration: none;
+
+}
+
+span select{
+    margin-left: 25px;
+    width: 100px;
+    height: 25px;
+    color: rgb(159,163,176);
+    border: none;
+
+
+
+}
+.get{
+    text-align: center;
+    
+    margin-top: -145px;
+    margin-left: 1160px;
+    margin-right: auto;
+    background-color: rgb(249,250,252);
+    border: 3px solid rgb(90,149,197);
+    width: 160px;
+    height: 14px;
+    padding: 15px 10px 15px 10px;
+    border-radius: 80px;
+
+}
+
+.get a{
+    text-decoration: none;
+    color: rgb(51,92,214);
+}
+
+
+
+
+
+.key{
+    width: 250px;
+    color: rgb(51,92,214);
+    background-color: gainsboro;
+    
+
+
+}
+
+
+.big{
+    font-size: 70px;
+    color: rgb(52,61,85);
+
+}
+
+.small{
+    color: darkgrey;
+    font-size: 27px; 
+
+}
+.image{
+    margin-left: 650px;
+    margin-top: -460px;
+    
+}
+
+.image h5{
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 250px;
+    color: rgb(114,125,137);
+    text-decoration-color: rgb(106,113,131);
+
+}
+.work{
+    font-size: 20px;
+    color: rgb(51,92,214);
+    
+}
+
+
+.work a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(245,247,253);
+    background-color: rgb(51,92,214);
+    border-radius: 25px;
+    padding: 20px;
+}
+
+
+
+.how{
+    
+    color: rgb(249,251,253);
+    margin-left: 200px;
+    margin-top: -20px;
+    font-size: 20px;
+    background-color: rgb(250,251,253);
+   
+    border-radius: 5px;
+    
+}
+.how a{
+    width: 10px;
+    height: 5px;
+    text-decoration: none;
+    background-color: azure;
+    border: 5% solid blue;
+}
+
+.new{
+    text-align: center;
+    
+    margin-top: -40px;
+    margin-left: 185px;
+    margin-right: auto;
+    background-color: rgb(249,250,252);
+    border: 3px solid rgb(90,149,197);
+    width: 200px;
+    height: 26px;
+    padding: 15px 10px 15px 10px;
+    border-radius: 80px;
+}
+
+.new a{
+
+    text-decoration: none;
+}
+
+
+
